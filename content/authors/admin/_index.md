@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Rémi Thériault
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Rémi Thériault
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Rémi
+last_name: Thériault
 
 # Status emoji
 status:
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Post
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Social Identity and Morality Lab New York University
+    url: https://www.jayvanbavel.com/lab
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,9 +47,12 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Empathy
+  - Implicit attitudes
+  - Self-regulation
+  - Morality
+  - Dreams
+  - Identity
 
 education:
   - area: PhD Artificial Intelligence
@@ -144,10 +147,8 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: French
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +184,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Rémi Thériault obtained his BA Psychology and MSc Psychiatry from McGill University, Montréal, Québec. His undergraduate research has principally focused on exploring the mind-body connection through the placebo effect and the malleability of the sense of embodiment. His Master’s research focused on psychological strategies to increase empathy and reduce intergroup prejudice, such as taking others’ perspective using virtual reality technology. His current doctoral research at UQAM explores ways to boost altruism and reduce aggression through loving-kindness meditation. Overall, Rémi is passionate about putting social-psychological research to use to increase people’s well-being and intrinsic motivation to help one another.
